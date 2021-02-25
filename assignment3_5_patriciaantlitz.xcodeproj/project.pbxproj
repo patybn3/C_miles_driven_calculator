@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C530857C25D3C37C00A30B42 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C530857B25D3C37C00A30B42 /* main.c */; };
+		C530857C25D3C37C00A30B42 /* assignment3_5_patriciaantlitz.c in Sources */ = {isa = PBXBuildFile; fileRef = C530857B25D3C37C00A30B42 /* assignment3_5_patriciaantlitz.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		C530857825D3C37C00A30B42 /* assignment3_5_patriciaantlitz */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = assignment3_5_patriciaantlitz; sourceTree = BUILT_PRODUCTS_DIR; };
-		C530857B25D3C37C00A30B42 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		C530857B25D3C37C00A30B42 /* assignment3_5_patriciaantlitz.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = assignment3_5_patriciaantlitz.c; sourceTree = "<group>"; };
+		C530858425D3D01800A30B42 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +42,8 @@
 		C530856F25D3C37C00A30B42 = {
 			isa = PBXGroup;
 			children = (
-				C530857A25D3C37C00A30B42 /* assignment3_5_patriciaantlitz */,
+				C530858425D3D01800A30B42 /* README.md */,
+				C530857B25D3C37C00A30B42 /* assignment3_5_patriciaantlitz.c */,
 				C530857925D3C37C00A30B42 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +54,6 @@
 				C530857825D3C37C00A30B42 /* assignment3_5_patriciaantlitz */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		C530857A25D3C37C00A30B42 /* assignment3_5_patriciaantlitz */ = {
-			isa = PBXGroup;
-			children = (
-				C530857B25D3C37C00A30B42 /* main.c */,
-			);
-			path = assignment3_5_patriciaantlitz;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +112,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C530857C25D3C37C00A30B42 /* main.c in Sources */,
+				C530857C25D3C37C00A30B42 /* assignment3_5_patriciaantlitz.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
